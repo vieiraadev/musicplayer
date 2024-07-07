@@ -18,6 +18,6 @@ script.js - Contém o código JavaScript para a funcionalidade do Music Player.<
 Como Executar<br>
 
 Clone este repositório.<br>
-Abra o arquivo index.html em um navegador web.<br>
+
 ![image](https://github.com/vieiraadev/musicplayer/assets/164572708/217032e5-c92d-4d1a-bd5e-3e19d4666d2f)
 ![image](https://github.com/vieiraadev/musicplayer/assets/164572708/79741fc1-0004-4729-a353-d7836dbaf026)
