@@ -1,3 +1,4 @@
+Music Player
 
 Este é um projeto de um Music Player simples feito com HTML, CSS e JavaScript. O Music Player permite trocar as músicas, avançar ou voltar para a música anterior e altera a cor de fundo conforme a troca de música.
 
